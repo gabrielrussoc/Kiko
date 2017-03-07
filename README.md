@@ -3,7 +3,7 @@
 Blog dedicado ao acompanhamento do meu progresso na matéria MAC0214 Atividade
 Curricular em Cultura e Extensão no primeiro semestre de 2017.
 
-O blog pode ser acessado neste [link](https://gabrielrussoc.github.io/mac0214).
+O blog pode ser acessado neste [link](https://gabrielrussoc.github.io/mac214).
 
 ## Tema
 
