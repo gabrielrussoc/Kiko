@@ -1,0 +1,18 @@
+---
+layout: page
+title: Estatísticas
+permalink: /stats
+---
+
+<p class="lead">Aqui você encontra um resumo do progresso até o momento.</p>
+
+{% assign hours = 0 %}
+{% assign problems = 0 %}
+{% for post in site.posts %}
+    {% assign hours = hours | plus: post.hours %}
+    {% assign problems = problems | plus: post.problems %}
+{% endfor %}
+
+
+<p>Horas de treino: <b>{{ hours }}</b></p>
+<p>Problemas resolvidos:  <b>{{ problems }}</b></p>
