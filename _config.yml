@@ -7,7 +7,7 @@ name:               "MAC0214"
 description:        "Blog para o progresso de MAC0214 no primeiro semestre de 2017"
 
 # URL
-baseurl:            ""
+baseurl:            "/mac214"
 permalink:          /:year/:month/:day/:title/
 
 # Markdown
@@ -16,9 +16,9 @@ markdown:           kramdown
 # Navigation
 nav:
   - name:           "home"
-    href:           "/"
+    href:           ""
   - name:           "estatísticas"
-    href:           "/stats"
+    href:           "stats"
 
 # Sass
 sass:
